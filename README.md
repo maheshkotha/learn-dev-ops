@@ -36,3 +36,15 @@ Devops is the process of improving application delivary.
 
 ## Day 2
 
+## Software Development Lifecycle (SDLC)
+- Design
+- Develop
+- Test
+
+- End goal is Delivar High quality product
+
+-  --> Planing  --> Defining --> Design --> Building --> Testing --> Delivar --> Planing
+
+- DevOps Engineer involved : Building, Testing and Deployment
+
+
