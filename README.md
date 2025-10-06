@@ -48,3 +48,52 @@ Devops is the process of improving application delivary.
 - DevOps Engineer involved : Building, Testing and Deployment
 
 
+============================================================================
+
+## Day 3
+
+## Absolute Prerequest for Learning DevOps
+
+### Roles in a company
+* Business Analyst
+* Product Manager
+* Product Owner
+* Software Architech
+* Developers
+* QE Engineers
+* DBA
+* DevOps Engineers
+* Release Managers(Optional)
+* SRE
+* Technical Writer
+
+
+## Virtual Machine
+
+Key Words: Virtual, Virtual Machine, Server, Hiperwiser 
+
+Azure | AWS
+
+Efficiency and Automation
+
+EC2 Requdst 
+
+response  <----- EC2 instance
+
+AWS CLI
+AWS API
+AWS CDK
+AWS CFT
+Terraform
+
+-------------------------------
+
+AWS 
+
+EC2 Service
+
+EC2 Global view
+
+
+
+
